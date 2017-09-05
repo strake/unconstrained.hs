@@ -1,6 +1,6 @@
 name:                unconstrained
 version:             0.1.0.0
--- synopsis:            
+synopsis:            Null constraint
 -- description:         
 license:             BSD3
 license-file:        LICENSE
